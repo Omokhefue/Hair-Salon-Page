@@ -1,4 +1,4 @@
-# Hair-Salon-Page
+# Hair-Salon-Website
 
 A hair salon website designed with pure HTML and CSS and some Javascript.
 Includes some cool hover effects.
